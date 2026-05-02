@@ -1,0 +1,26 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.swp
+*.swo
+*.DS_Store
+.env
+.venv/
+venv/
+.idea/
+.vscode/
+*.log
+*.sqlite3
+*.db
+*.egg-info/
+*.egg
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Streamlit cache
+.cache/
+
+# Excel files
+*.xls
+*.xlsx
